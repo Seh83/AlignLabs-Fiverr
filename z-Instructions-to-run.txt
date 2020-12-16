@@ -1,0 +1,5 @@
+1) To run the project: npm start 
+
+To install Posenet: 
+npm install @tensorflow/tfjs
+npm install @tensorflow-models/posenet
